@@ -1,0 +1,24 @@
+#main{
+    height: 100vh;
+    background-color: $primary-color;
+}
+.upload-area{
+    background-color: $primary-color;
+    height: 500px;
+    color: white;
+    border:3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table{
+    border:3px solid white;
+}
+.upload-input{
+    display: none;
+}
+
+.fa-download{
+    font-size:60px;
+    cursor: pointer;
+}

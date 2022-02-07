@@ -1,0 +1,34 @@
+#main {
+  height: 100vh;
+  background-color: #323539;
+}
+
+.upload-area {
+  background-color: #323539;
+  height: 500px;
+  color: white;
+  border: 3px solid white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.table {
+  border: 3px solid white;
+}
+
+.upload-input {
+  display: none;
+}
+
+.fa-download {
+  font-size: 60px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
